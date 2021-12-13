@@ -2,7 +2,7 @@
 
 This a simple image processing app in scilab.
 Uses scilab prebuild modules.<br>
-You can simply this add this file to your scilab directory and execute it.
+You can simply this add this file to your scilab workspace and execute it.
 
 <h2>IMPORTANT<h2><br>(ATOMS MODULE : Scilab Image Processing Modeule) is needed.<hr>
 
